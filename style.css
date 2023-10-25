@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 0;
+    width: 0;
+    border: black;
+    background-color: aliceblue;
+    box-sizing: border-box;35r78
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    padding:auto;
+    list-style: none;
+    text-decoration: none;
+    color: red;
+}

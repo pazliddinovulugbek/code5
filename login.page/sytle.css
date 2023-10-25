@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.login {
+    border: 2px solid black;
+    width: 500px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: space-between;
+    /* align-items: center; */
+    padding-left: 50PX;
+    padding-right: 50px;
+    background-color: white;
+}
+
+.Sign {
+    /* border: 2px solid white; */
+    height: 50px;
+
+}
+
+.Email {
+    /* border: 2px solid white; */
+    height: 30px;
+    margin: 10px;
+}
+
+.password {
+    /* border: 2px solid white; */
+    height: 30px;
+    margin: 10px;
+}
+.text_1{
+    border: 2px solid black;
+    display: flex ;
+    margin: ;
+}
+
+
+    
+
+
